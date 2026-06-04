@@ -1,5 +1,4 @@
-[<img src="https://www.youtube.com/watch?v=C_qEfIPdrrE/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/watch?v=C_qEfIPdrrE)
+[<img src="https://img.youtube.com/vi/C_qEfIPdrrE/hqdefault.jpg" width="600" height="300" />](https://www.youtube.com/watch?v=C_qEfIPdrrE)
 
 **CONTROLS:**
 
